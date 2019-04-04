@@ -1,4 +1,4 @@
-# Bitacora EIS 2019 01 C
+﻿# Bitacora EIS 2019 01 C
 
 ## Indice
 
@@ -8,4 +8,4 @@
 - [Semana 2][1]
 
 [0]: /semana_01
-[1]: /semana_02c
+[1]: /semana_02
